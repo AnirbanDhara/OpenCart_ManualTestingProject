@@ -3,12 +3,7 @@ OpenCart is an opensource E-commerce web Application. This Manual Testing Projec
 # Project Structure
 | File Name | Description |
 |--------------|-------------|
-| FRS(OpenCart).pdf   | This FRS document provides a comprehensive overview of OpenCart's required functionalities. The key sections outline:
-
-1. System features including user management, catalog management, and order processing
-2. Non-functional requirements covering performance, security, and compatibility
-3. Interface specifications for both users and external systems
-4. Data management requirements |
+| FRS(OpenCart).pdf   |  This PDF likely contains the Functional Requirements Specification (FRS) document for OpenCart, outlining the functional and non-functional requirements of the software.|
 | TestPlan(OpenCart).pdf   | This PDF is likely a Test Plan document for OpenCart, providing an overview of the testing strategy, objectives, scope, and schedule for testing the software. | 
 | TestScenarios(OpenCart).xlsx | This Excel file likely contains test scenarios for OpenCart, which describe various situations and conditions that need to be tested to ensure the software functions correctly. | 
 | TestCases(OpenCart).xlsx | This Excel file probably contains a set of test cases specifically related to web registration functionality in OpenCart. It likely includes detailed steps, expected results, and test data. |
